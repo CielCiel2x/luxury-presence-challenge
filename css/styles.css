@@ -169,6 +169,7 @@ li {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #d8d8d8
   }
   
   form {
